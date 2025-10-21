@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshewa&label=Profile%20views&color=0e75b6&style=flat" alt="kshewa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshewa" alt="kshewa" /></a> </p>
 
-- 🔭 I’m currently working on [longtea](https://github.com/kshewa/Long_Tea)
+- 🔭 I’m currently working on mobile app
 
 - 🌱 I’m currently learning **node.js**
 
